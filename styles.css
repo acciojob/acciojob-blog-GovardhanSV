@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+h1{
+    text-align: center;
+}
+
+#Blog{
+    height: 200px;
+}
+#Brute{
+height: 200px;
+}
